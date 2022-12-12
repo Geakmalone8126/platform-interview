@@ -1,4 +1,4 @@
-taging.tf
+staging.tf
 
 resource "vault_audit" "audit_staging" {
   provider = vault.vault_staging
